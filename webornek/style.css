@@ -165,18 +165,15 @@ body {
     padding-right: 22px;
 }
 
-.kutu .buton{
+.kutu .buton {
     
     padding-left: 12%;
     line-height: 45px;
     border-radius: 23px;
-
     width: 30%;
     margin-left:33%;
     height: 45px;
-
     background: rgb(223,161,138);
-   
     display: block;
 
 }
